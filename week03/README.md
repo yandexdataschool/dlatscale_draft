@@ -1,6 +1,4 @@
-[TBA this week; TL;DR implement your own pipeline OR cpu offloading from scratch and get 0.5 points]
-
-
+Our lecture (video) - https://disk.yandex.ru/i/8Fx5f4ewhGLeWA
 
 References:
 * PyTorch gradient checkpointing - [API reference](https://pytorch.org/docs/stable/checkpoint.html)
