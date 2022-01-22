@@ -1,2 +1,3 @@
 # dlatscale_draft
-This is an early version of Deep Learning at Scale course for Yandex School of Data Analysis
+
+Moved to https://github.com/mryab/efficient-dl-systems
